@@ -3,7 +3,7 @@
 ## Description
 This repository contains my submission for the weekly assignments of the of Web technologies and e-Services course at Hanoi University of Science and Technology.
 
-In this assignment, I created a static website based on the instructor's requirements, which involved building a personal portfolio. The website includes an "About" section to introduce myself, a "Work" section to showcase completed projects, and a "Contact" section, along with a footer — all as the instructor's requirements..
+In this assignment, I created a static website based on the instructor's requirements, which involved building a personal portfolio. The website includes an "About" section to introduce myself, a "Work" section to showcase completed projects, and a "Contact" section, along with a footer — all as the lecturer's requirements.
 
 The website was built using HTML and CSS to create a static page, with some additional JavaScript for implementing smooth scrolling when users click on the navigation links in the navbar.
 
